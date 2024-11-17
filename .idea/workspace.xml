@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03b58ab-e88c-4220-bb04-19f5fe4471dd" name="Changes" comment="Initial Commit with Problem 1 file structure created. Packages for problem 2,3,4 created but not filled in.">
+    <list default="true" id="c03b58ab-e88c-4220-bb04-19f5fe4471dd" name="Changes" comment="Started Person parent class. getters/setters to string.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Problem1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,7 @@
       <workItem from="1731001591368" duration="960000" />
       <workItem from="1731330713570" duration="4156000" />
       <workItem from="1731710118610" duration="1000" />
-      <workItem from="1731859240980" duration="528000" />
+      <workItem from="1731859240980" duration="1401000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit with Problem 1 file structure created. Packages for problem 2,3,4 created but not filled in.">
       <option name="closed" value="true" />
@@ -95,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731330744383</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Started Person parent class. getters/setters to string.">
+      <option name="closed" value="true" />
+      <created>1731859939296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731859939296</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,14 +112,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit with Problem 1 file structure created. Packages for problem 2,3,4 created but not filled in." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit with Problem 1 file structure created. Packages for problem 2,3,4 created but not filled in." />
+    <MESSAGE value="Started Person parent class. getters/setters to string." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started Person parent class. getters/setters to string." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Problem1/Person.java</url>
-          <line>10</line>
+          <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

@@ -1,8 +1,9 @@
 package Problem1;
 
 public class Person {
-    protected String myName;
-    protected int myAge;
+    protected String myName; // Protected gives direct access in inheritance chain. It's new to me, but I'm learning about it now.
+    protected int myAge; //Avoids extra method calls when accessing parent class data
+                         //Especially important in loops or frequent access scenarios
     protected String myGender;
 
     public Person(String name, int age, String gender) {
