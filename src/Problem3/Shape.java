@@ -1,4 +1,10 @@
 package Problem3;
 
-public class Shape {
+public abstract class Shape {
+    protected String name;
+
+    // Constructor
+    public Shape(String name) {
+        this.name = name;
+    }
 }
