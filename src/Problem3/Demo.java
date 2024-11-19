@@ -17,5 +17,12 @@ public class Demo {
         }
         System.out.println("------------------------------------------------------");
 
+        try {
+            System.out.println("\nTrying to create invalid triangle...");
+            Triangle invalidTriangle = new Triangle("Invalid", 1.0, 1.0, 10.0);
+        } catch (Exception e) {
+            System.out.println("Failed to create invalid triangle");
+
+        }
     }
 }

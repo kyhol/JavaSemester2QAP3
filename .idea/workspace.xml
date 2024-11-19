@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03b58ab-e88c-4220-bb04-19f5fe4471dd" name="Changes" comment="updated ellipse and shape">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/Circle.java" afterDir="false" />
+    <list default="true" id="c03b58ab-e88c-4220-bb04-19f5fe4471dd" name="Changes" comment="added circle logic, as well as Etriangle, triangle, Demo&#10;logic for if triangle valid etc.">
       <change beforePath="$PROJECT_DIR$/src/Problem3/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem3/EquilateralTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/EquilateralTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Problem3/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +80,7 @@
       <workItem from="1731001591368" duration="960000" />
       <workItem from="1731330713570" duration="4156000" />
       <workItem from="1731710118610" duration="1000" />
-      <workItem from="1731859240980" duration="11344000" />
+      <workItem from="1731859240980" duration="11655000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit with Problem 1 file structure created. Packages for problem 2,3,4 created but not filled in.">
       <option name="closed" value="true" />
@@ -173,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732031098015</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added circle logic, as well as Etriangle, triangle, Demo&#10;logic for if triangle valid etc.">
+      <option name="closed" value="true" />
+      <created>1732032013292</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732032013292</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +195,8 @@
     <MESSAGE value="Created classes" />
     <MESSAGE value="added constructor in shape&#10;gave Demo a kiss" />
     <MESSAGE value="updated ellipse and shape" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated ellipse and shape" />
+    <MESSAGE value="added circle logic, as well as Etriangle, triangle, Demo&#10;logic for if triangle valid etc." />
+    <option name="LAST_COMMIT_MESSAGE" value="added circle logic, as well as Etriangle, triangle, Demo&#10;logic for if triangle valid etc." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

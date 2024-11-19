@@ -12,6 +12,8 @@ public class Triangle extends Shape {
             side3 = s3;
         } else {
             System.out.println("Error: Invalid triangle sides! :@");
+            System.out.println(" ");
+            System.out.println("------------------------------------------------------");
             System.exit(1);
         }
     }
