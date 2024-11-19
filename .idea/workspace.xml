@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03b58ab-e88c-4220-bb04-19f5fe4471dd" name="Changes" comment="Teacher extends Person&#10;Private instead of protected, as the variables only apply to teacher&#10;comments added in Person class - forgot to mention in class commit">
+    <list default="true" id="c03b58ab-e88c-4220-bb04-19f5fe4471dd" name="Changes" comment="Demo class with testing of all methods created. &#10;Formatted to look more visually appeasing. &#10;&#10;Screenshot of working Problem 1 added.">
+      <change afterPath="$PROJECT_DIR$/src/Problem2/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem1/CollegeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/CollegeStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem1/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <workItem from="1731001591368" duration="960000" />
       <workItem from="1731330713570" duration="4156000" />
       <workItem from="1731710118610" duration="1000" />
-      <workItem from="1731859240980" duration="2982000" />
+      <workItem from="1731859240980" duration="9443000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit with Problem 1 file structure created. Packages for problem 2,3,4 created but not filled in.">
       <option name="closed" value="true" />
@@ -121,7 +122,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731861768762</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CollegeStudent class &#10;private instance variables&#10;with student constructor called to handle name/age/etc.&#10;get/set&#10;tostring">
+      <option name="closed" value="true" />
+      <created>1731862564868</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731862564868</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Demo class with testing of all methods created. &#10;Formatted to look more visually appeasing. &#10;&#10;Screenshot of working Problem 1 added.">
+      <option name="closed" value="true" />
+      <created>1731862752058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731862752058</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +149,9 @@
     <MESSAGE value="Started Person parent class. getters/setters to string." />
     <MESSAGE value="Started student baby class. getters/setters to string.&#10;Constructor that uses super to call the person constuctor" />
     <MESSAGE value="Teacher extends Person&#10;Private instead of protected, as the variables only apply to teacher&#10;comments added in Person class - forgot to mention in class commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teacher extends Person&#10;Private instead of protected, as the variables only apply to teacher&#10;comments added in Person class - forgot to mention in class commit" />
+    <MESSAGE value="CollegeStudent class &#10;private instance variables&#10;with student constructor called to handle name/age/etc.&#10;get/set&#10;tostring" />
+    <MESSAGE value="Demo class with testing of all methods created. &#10;Formatted to look more visually appeasing. &#10;&#10;Screenshot of working Problem 1 added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Demo class with testing of all methods created. &#10;Formatted to look more visually appeasing. &#10;&#10;Screenshot of working Problem 1 added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
