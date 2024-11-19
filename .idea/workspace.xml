@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03b58ab-e88c-4220-bb04-19f5fe4471dd" name="Changes" comment="added circle logic, as well as Etriangle, triangle, Demo&#10;logic for if triangle valid etc.">
-      <change beforePath="$PROJECT_DIR$/src/Problem3/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem3/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/Triangle.java" afterDir="false" />
+    <list default="true" id="c03b58ab-e88c-4220-bb04-19f5fe4471dd" name="Changes" comment="try catch added in demo creating an invalid triangle&#10;Could do it for each shape but I'm too lazy :D &#10;cleaned up the demo so it looks organized when printed.">
+      <change afterPath="$PROJECT_DIR$/src/Problem4/Scalable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem3/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <workItem from="1731001591368" duration="960000" />
       <workItem from="1731330713570" duration="4156000" />
       <workItem from="1731710118610" duration="1000" />
-      <workItem from="1731859240980" duration="11655000" />
+      <workItem from="1731859240980" duration="15077000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit with Problem 1 file structure created. Packages for problem 2,3,4 created but not filled in.">
       <option name="closed" value="true" />
@@ -178,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732032013292</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="try catch added in demo creating an invalid triangle&#10;Could do it for each shape but I'm too lazy :D &#10;cleaned up the demo so it looks organized when printed.">
+      <option name="closed" value="true" />
+      <created>1732032404706</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732032404706</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +205,8 @@
     <MESSAGE value="added constructor in shape&#10;gave Demo a kiss" />
     <MESSAGE value="updated ellipse and shape" />
     <MESSAGE value="added circle logic, as well as Etriangle, triangle, Demo&#10;logic for if triangle valid etc." />
-    <option name="LAST_COMMIT_MESSAGE" value="added circle logic, as well as Etriangle, triangle, Demo&#10;logic for if triangle valid etc." />
+    <MESSAGE value="try catch added in demo creating an invalid triangle&#10;Could do it for each shape but I'm too lazy :D &#10;cleaned up the demo so it looks organized when printed." />
+    <option name="LAST_COMMIT_MESSAGE" value="try catch added in demo creating an invalid triangle&#10;Could do it for each shape but I'm too lazy :D &#10;cleaned up the demo so it looks organized when printed." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,4 +1,4 @@
-package Problem3;
+package Problem4;
 
 public abstract class Shape {
     protected String name; //public : accessible from everywhere.
