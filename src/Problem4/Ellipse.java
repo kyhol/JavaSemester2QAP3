@@ -1,7 +1,5 @@
 package Problem4;
 
-import Problem3.Shape;
-
 public class Ellipse extends Shape {
     protected double a;  // major
     protected double b;  // minor
@@ -21,5 +19,11 @@ public class Ellipse extends Shape {
     @Override
     public double getArea() {
         return Math.PI * a * b;
+    }
+
+    @Override
+    public void scale(double factor) {
+        a *= factor;
+        b *= factor;
     }
 }

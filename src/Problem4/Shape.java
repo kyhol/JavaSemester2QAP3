@@ -1,6 +1,6 @@
 package Problem4;
 
-public abstract class Shape {
+public abstract class Shape implements Scalable  {
     protected String name; //public : accessible from everywhere.
     // protected : accessible by the classes of the same package and the subclasses residing in any package.
 

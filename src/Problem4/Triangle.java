@@ -13,7 +13,7 @@ public class Triangle extends Shape {
         } else {
             System.out.println("Error: Invalid triangle sides! :@");
             System.out.println(" ");
-            System.out.println("------------------------------------------------------");
+            System.out.println("-------------------------------------------------------");
             System.exit(1);
         }
     }
@@ -31,5 +31,13 @@ public class Triangle extends Shape {
     public double getArea() {
         double s = getPerimeter() / 2;
         return Math.sqrt(s * (s - side1) * (s - side2) * (s - side3));
+    }
+
+    // Added scale method to implement Scalable interface
+    @Override
+    public void scale(double factor) {
+        side1 *= factor;
+        side2 *= factor;
+        side3 *= factor;
     }
 }
